@@ -45,5 +45,7 @@ img{
     
 }
 footer{
-    font-size: xx-large;
+    font-size: xx-large; 
+    padding: 2%;
+        background-color: white
 }
